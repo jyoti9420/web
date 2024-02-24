@@ -1,0 +1,64 @@
+#divmain1 {
+    display: flex;
+    justify-content: end;
+}
+#divmain1>a{
+    margin: 10px;
+    text-decoration: none;
+}
+#divmain1>span{
+    margin: 10px;
+}
+#divmain2 {
+    display: flex;
+    align-content: center;
+    
+    justify-content: center;
+}
+#main2>div>button{
+    background-color: blue;
+}
+
+
+#main3 {
+    display: flex;
+    justify-content: center;
+    
+    
+    
+    
+    
+
+}
+#main3>div{
+    margin: 20px;
+    
+    
+
+    
+    
+}
+
+#sub4{
+    background-color: aqua;
+
+    
+    height: 80px;
+    width: 80px;
+    border-radius: 100px;
+}
+h3{
+    transform: rotate(-90deg);
+    margin-right: 1300px;
+    font-size: 50px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-style: italic;
+}
+
+
+
